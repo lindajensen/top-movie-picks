@@ -109,12 +109,19 @@ body {
     opacity: 0.8;
 }
 
-/*Look through this section*/
+/*Look through this section
 .movie-info p {
     line-height: 1.5;
     margin-bottom: 2em;
     margin-right: 2em;
 }
+*/
+
+.cast li {
+    display: flex;
+    align-content: space-between;
+}
+
 
 .movie-info h4 {
     margin-bottom: .5em;

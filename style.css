@@ -91,3 +91,31 @@ body {
     opacity: 1;
     left: 0;
 }
+
+.movie-info h3 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.movie-info ul {
+    list-style: none;
+    padding: 0;
+}
+
+.movie-info li {
+    font-weight: 400;
+    font-size: 1em;
+    margin-bottom: 10px;
+    opacity: 0.8;
+}
+
+/*Look through this section*/
+.movie-info p {
+    line-height: 1.5;
+    margin-bottom: 2em;
+    margin-right: 2em;
+}
+
+.movie-info h4 {
+    margin-bottom: .5em;
+}

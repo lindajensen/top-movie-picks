@@ -109,13 +109,28 @@ body {
     opacity: 0.8;
 }
 
+.movie-plot p {
+
+}
+
 /*Look through this section*/
 .movie-info p {
-    line-height: 1.5;
-    margin-bottom: 2em;
+    margin-bottom: 0.5em;
     margin-right: 2em;
 }
 
 .movie-info h4 {
     margin-bottom: .5em;
+}
+
+.footer {
+    background-color: #cc3f47;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ebf5f1;
+    text-transform: uppercase;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    font-size: small;
 }
